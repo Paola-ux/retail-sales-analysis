@@ -17,3 +17,6 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t√
 ## Uso
 
 Ejecuta los notebooks de Jupyter en la carpeta `notebooks` para realizar el an√°lisis de los datos.
+
+git add README.md
+git commit -m "Add README.md"
